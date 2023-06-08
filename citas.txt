@@ -1,0 +1,8 @@
+Nombre del paciente: Sebas
+Número de cédula: 1234567890
+Fecha de la cita: 12/12/01
+
+Nombre del paciente: Bere
+Número de cédula: 1728086321
+Fecha de la cita: 12/12/01
+
